@@ -75,17 +75,26 @@ RA=7.2KΩ, RB= 3.6KΩ
 
 
 
-  **CIRCUIT DIAGRAM**
+  **CIRCUIT DIAGRAM MODEL AND TABULATION OF ASTABLE**
 
+<img width="891" height="1600" alt="WhatsApp Image 2026-09-23 at 2 21 27 PM" src="https://github.com/user-attachments/assets/82f3a460-6d04-4553-94ea-c218d17285d7" />
 
-  **MODEL GRAPH:**
+**CIRCUIT OF MONOSTABLE:**
 
+<img width="1532" height="1600" alt="WhatsApp Image 2026-09-23 at 2 22 28 PM" src="https://github.com/user-attachments/assets/533dd233-84b5-4569-a8ae-dfbbbac7986c" />
 
-  **TABULATION:**
+  **TABULATION AND MODEL GRAPH:**
  
+<img width="1026" height="1572" alt="WhatsApp Image 2026-09-23 at 2 22 41 PM" src="https://github.com/user-attachments/assets/8a0ffbbd-f162-4b93-a9bd-54be4bd932e1" />
 
+**GRAPH:**
 
+<img width="1055" height="1324" alt="WhatsApp Image 2026-09-23 at 2 23 43 PM" src="https://github.com/user-attachments/assets/57aec28c-3256-4d20-8da3-51e9af23bd3d" />
+<img width="949" height="1413" alt="WhatsApp Image 2026-09-23 at 2 24 09 PM" src="https://github.com/user-attachments/assets/f924a703-3d33-41e4-9f50-21dbc1ed4bc4" />
 
+**MARK SPLITUP:**
+
+<img width="1600" height="1121" alt="WhatsApp Image 2026-09-23 at 2 24 50 PM" src="https://github.com/user-attachments/assets/8a042a58-0b54-4023-8288-96447a855598" />
 
 **RESULT:**
 Thus the Astable and Monostable multivibrator is designed and tested using 555 timer IC
